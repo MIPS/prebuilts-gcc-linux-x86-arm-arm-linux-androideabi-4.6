@@ -1,5 +1,5 @@
 This is gdbint.info, produced by makeinfo version 4.13 from
-/usr/local/google/home/android/v15release/./src/build/../gdb/gdb-7.1.x/gdb/doc/gdbint.texinfo.
+/tmp/android-17841/src/build/../gdb/gdb-7.1.x/gdb/doc/gdbint.texinfo.
 
 INFO-DIR-SECTION Software development
 START-INFO-DIR-ENTRY
@@ -8684,83 +8684,83 @@ Index
 
 
 Tag Table:
-Node: Top1615
-Node: Summary2496
-Node: Requirements2646
-Node: Contributors4125
-Node: Overall Structure5718
-Node: Algorithms10741
-Node: User Interface42325
-Ref: UI-Independent Output44180
-Ref: User Interface-Footnote-166151
-Ref: User Interface-Footnote-266200
-Node: libgdb66435
-Node: Values70386
-Node: Stack Frames73230
-Node: Symbol Handling78212
-Node: Language Support94746
-Node: Host Definition99472
-Node: Target Architecture Definition104463
-Node: OS ABI Variant Handling105283
-Node: Initialize New Architecture110128
-Node: How an Architecture is Represented110479
-Node: Looking Up an Existing Architecture112436
-Node: Creating a New Architecture115355
-Node: Registers and Memory117393
-Node: Pointers and Addresses118185
-Ref: Pointers and Addresses-Footnote-1124186
-Node: Address Classes124429
-Node: Register Representation127674
-Node: Raw and Cooked Registers128048
-Node: Register Architecture Functions & Variables129232
-Node: Register Information Functions132841
-Ref: Register Information Functions-Footnote-1138747
-Node: Register and Memory Data139166
-Node: Register Caching142315
-Node: Frame Interpretation143851
-Node: All About Stack Frames144257
-Ref: All About Stack Frames-Footnote-1149549
-Node: Frame Handling Terminology149781
-Node: Prologue Caches152308
-Node: Functions and Variable to Analyze Frames153989
-Ref: frame_align156087
-Node: Functions to Access Frame Data157601
-Node: Analyzing Stacks---Frame Sniffers159892
-Ref: Analyzing Stacks---Frame Sniffers-Footnote-1164542
-Node: Inferior Call Setup165039
-Node: About Dummy Frames165322
-Node: Functions Creating Dummy Frames165948
-Node: Adding support for debugging core files170005
-Node: Defining Other Architecture Features170549
-Ref: gdbarch_breakpoint_from_pc175396
-Ref: gdbarch_stabs_argument_has_addr187790
-Ref: gdbarch_push_dummy_call188037
-Ref: gdbarch_push_dummy_code188597
-Ref: gdbarch_return_value189579
-Ref: gdbarch_dummy_id195345
-Node: Adding a New Target196033
-Node: Target Descriptions198500
-Node: Target Descriptions Implementation199439
-Node: Adding Target Described Register Support200813
-Node: Target Vector Definition203759
-Node: Managing Execution State204291
-Node: Existing Targets206104
-Node: Native Debugging208619
-Node: Support Libraries212447
-Node: Coding223962
-Node: Porting GDB248971
-Node: Versions and Branches250840
-Ref: Tags256796
-Ref: experimental branch tags257127
-Node: Start of New Year Procedure257859
-Node: Releasing GDB259665
-Node: Testsuite277897
-Ref: Testsuite-Footnote-1289762
-Node: Hints289880
-Node: Getting Started290202
-Node: Debugging GDB294345
-Node: GDB Observers299410
-Node: GNU Free Documentation License307312
-Node: Index329756
+Node: Top1590
+Node: Summary2471
+Node: Requirements2621
+Node: Contributors4100
+Node: Overall Structure5693
+Node: Algorithms10716
+Node: User Interface42300
+Ref: UI-Independent Output44155
+Ref: User Interface-Footnote-166126
+Ref: User Interface-Footnote-266175
+Node: libgdb66410
+Node: Values70361
+Node: Stack Frames73205
+Node: Symbol Handling78187
+Node: Language Support94721
+Node: Host Definition99447
+Node: Target Architecture Definition104438
+Node: OS ABI Variant Handling105258
+Node: Initialize New Architecture110103
+Node: How an Architecture is Represented110454
+Node: Looking Up an Existing Architecture112411
+Node: Creating a New Architecture115330
+Node: Registers and Memory117368
+Node: Pointers and Addresses118160
+Ref: Pointers and Addresses-Footnote-1124161
+Node: Address Classes124404
+Node: Register Representation127649
+Node: Raw and Cooked Registers128023
+Node: Register Architecture Functions & Variables129207
+Node: Register Information Functions132816
+Ref: Register Information Functions-Footnote-1138722
+Node: Register and Memory Data139141
+Node: Register Caching142290
+Node: Frame Interpretation143826
+Node: All About Stack Frames144232
+Ref: All About Stack Frames-Footnote-1149524
+Node: Frame Handling Terminology149756
+Node: Prologue Caches152283
+Node: Functions and Variable to Analyze Frames153964
+Ref: frame_align156062
+Node: Functions to Access Frame Data157576
+Node: Analyzing Stacks---Frame Sniffers159867
+Ref: Analyzing Stacks---Frame Sniffers-Footnote-1164517
+Node: Inferior Call Setup165014
+Node: About Dummy Frames165297
+Node: Functions Creating Dummy Frames165923
+Node: Adding support for debugging core files169980
+Node: Defining Other Architecture Features170524
+Ref: gdbarch_breakpoint_from_pc175371
+Ref: gdbarch_stabs_argument_has_addr187765
+Ref: gdbarch_push_dummy_call188012
+Ref: gdbarch_push_dummy_code188572
+Ref: gdbarch_return_value189554
+Ref: gdbarch_dummy_id195320
+Node: Adding a New Target196008
+Node: Target Descriptions198475
+Node: Target Descriptions Implementation199414
+Node: Adding Target Described Register Support200788
+Node: Target Vector Definition203734
+Node: Managing Execution State204266
+Node: Existing Targets206079
+Node: Native Debugging208594
+Node: Support Libraries212422
+Node: Coding223937
+Node: Porting GDB248946
+Node: Versions and Branches250815
+Ref: Tags256771
+Ref: experimental branch tags257102
+Node: Start of New Year Procedure257834
+Node: Releasing GDB259640
+Node: Testsuite277872
+Ref: Testsuite-Footnote-1289737
+Node: Hints289855
+Node: Getting Started290177
+Node: Debugging GDB294320
+Node: GDB Observers299385
+Node: GNU Free Documentation License307287
+Node: Index329731
 
 End Tag Table

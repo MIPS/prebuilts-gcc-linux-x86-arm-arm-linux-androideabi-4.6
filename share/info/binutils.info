@@ -1,5 +1,5 @@
 This is binutils.info, produced by makeinfo version 4.13 from
-/usr/local/google/home/android/v15release/./src/build/../binutils/binutils-2.21/binutils/doc/binutils.texi.
+/tmp/android-17841/src/build/../binutils/binutils-2.21/binutils/doc/binutils.texi.
 
 Copyright (C) 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999,
 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 Free
@@ -4612,35 +4612,35 @@ Binutils Index
 
 
 Tag Table:
-Node: Top2096
-Node: ar3806
-Node: ar cmdline6611
-Node: ar scripts15935
-Node: nm21623
-Node: objcopy31097
-Node: objdump60705
-Node: ranlib81377
-Node: size82198
-Node: strings85203
-Node: strip87661
-Node: c++filt93612
-Ref: c++filt-Footnote-198459
-Node: addr2line98565
-Node: nlmconv102365
-Node: windmc104971
-Node: windres108620
-Node: dlltool114647
-Node: def file format127533
-Node: readelf129464
-Node: elfedit136044
-Node: Common Options138264
-Node: Selecting the Target System139304
-Node: Target Selection140236
-Node: Architecture Selection142218
-Node: Reporting Bugs143046
-Node: Bug Criteria143825
-Node: Bug Reporting144378
-Node: GNU Free Documentation License151248
-Node: Binutils Index176427
+Node: Top2071
+Node: ar3781
+Node: ar cmdline6586
+Node: ar scripts15910
+Node: nm21598
+Node: objcopy31072
+Node: objdump60680
+Node: ranlib81352
+Node: size82173
+Node: strings85178
+Node: strip87636
+Node: c++filt93587
+Ref: c++filt-Footnote-198434
+Node: addr2line98540
+Node: nlmconv102340
+Node: windmc104946
+Node: windres108595
+Node: dlltool114622
+Node: def file format127508
+Node: readelf129439
+Node: elfedit136019
+Node: Common Options138239
+Node: Selecting the Target System139279
+Node: Target Selection140211
+Node: Architecture Selection142193
+Node: Reporting Bugs143021
+Node: Bug Criteria143800
+Node: Bug Reporting144353
+Node: GNU Free Documentation License151223
+Node: Binutils Index176402
 
 End Tag Table
