@@ -6,7 +6,7 @@ export CC="gcc -m64"
 export CXX="g++ -m64"
 export ABI=64
 path/to/build/configure --target=arm-linux-androideabi \
-	--host=i686-linux-gnu --build=i686-linux-gnu \
+	--host=x86_64-linux-gnu --build=x86_64-linux-gnu \
 	--with-gcc-version=4.6 --with-binutils-version=2.21 \
 	--with-gmp-version=4.2.4 --with-mpfr-version=2.4.1 \
 	--with-gdb-version=7.3.x --with-arch=armv5te \
